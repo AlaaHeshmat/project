@@ -1,0 +1,18 @@
+body{ 
+  
+    background-image:no-repeat center/80% 
+    url("C:\Users\masr\Downloads\Free Vector _ Flat university concept background.jpg") ;
+}
+
+div{
+    height: 200hv;
+    width: 200hv;
+        border-style:solid ;
+        border-color: rgb(216, 177, 151);
+        border-width: 8px;
+        border-radius: 100px;
+        background-color: rgb(235, 213, 189);
+       
+    }
+  
+
